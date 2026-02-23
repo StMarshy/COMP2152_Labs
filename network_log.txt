@@ -1,0 +1,12 @@
+[2026-02-22 22:37:14] PING 1.1.1.1
+
+Pinging 1.1.1.1 with 32 bytes of data:
+Reply from 1.1.1.1: bytes=32 time=91ms TTL=56
+Reply from 1.1.1.1: bytes=32 time=45ms TTL=56
+Reply from 1.1.1.1: bytes=32 time=71ms TTL=56
+
+Ping statistics for 1.1.1.1:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 45ms, Maximum = 91ms, Average = 69ms
+----------------------------------------
